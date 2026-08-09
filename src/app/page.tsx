@@ -38,7 +38,6 @@ export default async function Home() {
                 Become a donor
               </Link>
             </div>
-            <p className="text-sm text-white/60">Demo admin: admin@tbh.org / admin123</p>
           </div>
           <div className="grid grid-cols-2 gap-4">
             {[
